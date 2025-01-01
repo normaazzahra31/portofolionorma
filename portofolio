@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Norma Azzahra Widyasti</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #00796b;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+        }
+        nav {
+            margin-top: 20px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        .project-card {
+            background: #fff;
+            margin: 15px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .project-card img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .project-card h3 {
+            margin: 15px 0 10px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        footer p {
+            margin: 0;
+        }
+        .contact {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Norma Azzahra Widyasti</h1>
+        <p>Exploring IoT, Automation, and Embedded Systems</p>
+        <nav>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="projects">
+        <h2>My IoT Projects</h2>
+        
+        <div class="project-card">
+            <img src="project1.jpg" alt="Flood Detection System">
+            <h3>Flood Detection System</h3>
+            <p>Using DHT11 and HC-SR04 sensors, this prototype measures humidity, temperature, and distance to predict flood risks.</p>
+            <a href="https://drive.google.com/file/d/1h4GtnlM9PDaemIr0yWti4IihzavfDs4k/view?usp=sharing">Watch Video</a>
+        </div>
+
+        <div class="project-card">
+            <img src="project2.jpg" alt="Health Monitoring System">
+            <h3>Health Monitoring System</h3>
+            <p>A system utilizing MAX30102 and MLX90614 sensors to monitor heart rate, SpO2, and body temperature with real-time web dashboard display.</p>
+            <a href="https://example.com/project2">Watch Video</a>
+        </div>
+
+        <div class="project-card">
+            <img src="project3.jpg" alt="Water Quality Monitoring">
+            <h3>Water Quality Monitoring</h3>
+            <p>An IoT-based unmanned surface vehicle to monitor water quality, developed as part of a research project.</p>
+            <a href="https://example.com/project3">Watch Video</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you'd like to collaborate or learn more about my work, feel free to reach out!</p>
+        <div class="contact">
+            <p>Email: <a href="mailto:normawidyasti@gmail.com">normawidyasti@gmail.com</a></p>
+            <p>Phone: +62 858 5616 6985</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Norma Azzahra Widyasti</p>
+    </footer>
+</body>
+</html>
