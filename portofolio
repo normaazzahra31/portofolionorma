@@ -92,14 +92,7 @@
             <img src="project2.jpg" alt="Health Monitoring System">
             <h3>Health Monitoring System</h3>
             <p>A system utilizing MAX30102 and MLX90614 sensors to monitor heart rate, SpO2, and body temperature with real-time web dashboard display.</p>
-            <a href="https://example.com/project2">Watch Video</a>
-        </div>
-
-        <div class="project-card">
-            <img src="project3.jpg" alt="Water Quality Monitoring">
-            <h3>Water Quality Monitoring</h3>
-            <p>An IoT-based unmanned surface vehicle to monitor water quality, developed as part of a research project.</p>
-            <a href="https://example.com/project3">Watch Video</a>
+            <a href="https://drive.google.com/file/d/1Q75tWH5gmdFuZaEmxsGI371i4cGCyydR/view?usp=drive_link">Watch Video</a>
         </div>
     </section>
 
