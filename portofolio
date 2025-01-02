@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of Norma Azzahra Widyasti, showcasing IoT, Automation, and Embedded Systems projects.">
     <title>Portfolio - Norma Azzahra Widyasti</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
@@ -82,17 +83,17 @@
         <h2>My IoT Projects</h2>
         
         <div class="project-card">
-            <img src="banjir.png" alt="Flood Detection System">
+            <img src="banjir.png" alt="Flood Detection System using DHT11 and HC-SR04">
             <h3>Flood Detection System</h3>
             <p>Using DHT11 and HC-SR04 sensors, this prototype measures humidity, temperature, and distance to predict flood risks.</p>
-            <a href="https://drive.google.com/file/d/1h4GtnlM9PDaemIr0yWti4IihzavfDs4k/view?usp=sharing">Watch Video</a>
+            <a href="https://drive.google.com/file/d/1h4GtnlM9PDaemIr0yWti4IihzavfDs4k/view?usp=sharing" target="_blank">Watch Video</a>
         </div>
 
         <div class="project-card">
-            <img src="monitoring heart rate.png" alt="Health Monitoring System">
+            <img src="monitoring heart rate.png" alt="Health Monitoring System using MAX30102 and MLX90614 sensors">
             <h3>Health Monitoring System</h3>
             <p>A system utilizing MAX30102 and MLX90614 sensors to monitor heart rate, SpO2, and body temperature with real-time web dashboard display.</p>
-            <a href="https://drive.google.com/file/d/1Q75tWH5gmdFuZaEmxsGI371i4cGCyydR/view?usp=drive_link">Watch Video</a>
+            <a href="https://drive.google.com/file/d/1Q75tWH5gmdFuZaEmxsGI371i4cGCyydR/view?usp=drive_link" target="_blank">Watch Video</a>
         </div>
     </section>
 
